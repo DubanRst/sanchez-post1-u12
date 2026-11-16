@@ -1,4 +1,4 @@
-# Reembolsos Integrado — Proyecto integrador de patrones y arquitectura
+# Reembolsos Integrado - Proyecto integrador de patrones y arquitectura
 
 ## Descripción
 
